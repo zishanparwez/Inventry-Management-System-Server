@@ -1,6 +1,7 @@
 # Inventry-Management-System-Server
 
 # README
+### Note: Change branch to master to see code
 
 ## Steps to Run Server
 1. Ensure you have Node.js and npm installed on your system.
