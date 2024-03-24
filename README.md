@@ -60,9 +60,10 @@ Example:
 The .env file stores the environment variables required for the application to function properly.
 
 Variables:
-
+```
 PORT: Port number on which the server will listen.
 MONGO_URI: MongoDB connection URI.
 DB_NAME: Name of the MongoDB database.
 JWT_SECRET: Secret key for JSON Web Token (JWT) encryption.
+```
 
